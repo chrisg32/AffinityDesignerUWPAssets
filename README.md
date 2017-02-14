@@ -10,14 +10,14 @@ Affinity Designer is a fantastic tool for designing applications. This asset pac
 * [Attribution](#attribution)
 
 ## <a name="downloads"></a>Downloads
-* [Color Pallete](https://github.com/chrisg32/AffinityDesignerUWPAssets/raw/master/ColorPalette.afpalette "ColorPalette.afpalette")
+* [Color Palette](https://github.com/chrisg32/AffinityDesignerUWPAssets/raw/master/ColorPalette.afpalette "ColorPalette.afpalette")
 * [Light Theme](https://github.com/chrisg32/AffinityDesignerUWPAssets/raw/master/Assets/UWP_LightTheme.afassets "UWP_LightTheme.afassets")
 * Dark Theme (Comming Soon)
 
 ## <a name="screenshots"></a>Screenshots
 
-#### Color Pallete
-![Color Pallete Screenshot](https://github.com/chrisg32/AffinityDesignerUWPAssets/raw/master/Screenshots/swatches.png "Color Pallete")
+#### Color Palette
+![Color Palette Screenshot](https://github.com/chrisg32/AffinityDesignerUWPAssets/raw/master/Screenshots/swatches.png "Color Palette")
 
 #### Light Theme Assets
 ![Light Theme Assets Screenshot](https://github.com/chrisg32/AffinityDesignerUWPAssets/raw/master/Screenshots/light_theme.png "Light Theme Assets")
