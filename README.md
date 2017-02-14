@@ -11,6 +11,7 @@ Affinity Designer is a fantastic tool for designing applications. This asset pac
 * [Attribution](#attribution)
 
 ## <a name="downloads"></a>Downloads
+* [Device Template](https://github.com/chrisg32/AffinityDesignerUWPAssets/raw/master/UWPAppTemplate.afdesign "UWPAppTemplate.afdesign")
 * [Color Palette (Swatches)](https://github.com/chrisg32/AffinityDesignerUWPAssets/raw/master/ColorPalette.afpalette "ColorPalette.afpalette")
 * [Light Theme](https://github.com/chrisg32/AffinityDesignerUWPAssets/raw/master/Assets/UWP_LightTheme.afassets "UWP_LightTheme.afassets")
 * Dark Theme (Comming Soon)
@@ -30,6 +31,9 @@ From the **Swatches Panel** open the menu and select **Import Palette**. You can
 ![Import Palette Screenshot](https://github.com/chrisg32/AffinityDesignerUWPAssets/raw/master/Screenshots/install_palette.png)
 
 ## <a name="screenshots"></a>Screenshots
+
+#### Device Template
+![Device Template Screenshot](https://github.com/chrisg32/AffinityDesignerUWPAssets/raw/master/Screenshots/template.png "Device Template")
 
 #### Color Palette
 ![Color Palette Screenshot](https://github.com/chrisg32/AffinityDesignerUWPAssets/raw/master/Screenshots/swatches.png "Color Palette")
